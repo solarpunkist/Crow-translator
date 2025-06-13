@@ -11,3 +11,13 @@ Crow Caller is an open-source tool for analyzing and mimicking vocalizations of 
 
 ## Installation
 Clone the repo:
+
+
+## License
+MIT License for code. Audio datasets are under CC-BY 4.0.
+
+## Credits
+Developed by Leopold and the Eywa project.
+
+## Contributing
+Pull requests are welcome! Please open an issue first to discuss changes.
